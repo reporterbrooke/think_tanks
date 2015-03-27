@@ -20,7 +20,7 @@ Think tank annual reports: See source field in data for info on each one. Extrac
 
 1) Dates
 
-In most cases, there is no record showing exactly when a donation was made. Also, many think tanks have different fiscal years, or use a calendar year, in their annual reports. When the source of the donation is the website, some think tanks list the time frame, while others don't. See date_info field for details on each record. 
+In most cases, there is no record showing exactly when a donation was made. Also, many think tanks have different fiscal years, or use a calendar year, in their annual reports. When the source of the donation is the website, some think tanks list the time frame, while others don't. See donation_date_notes field for details on each record. 
 
 2) Amounts
 
