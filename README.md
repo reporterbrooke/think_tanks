@@ -14,7 +14,7 @@ Norwegian grant records: https://www.oep.no/search/advancedSearch.jsp?lang=en
 
 FARA: http://www.fara.gov/quick-search.html
 
-Think tank annual reports: See source field in data for link to each one. Extracted in various ways depending file format, readability and embedded text quality. In some cases, in-stream text editor (sed), in other cases regex and/or grep. In other cases, copy and paste directly into text editor.
+Think tank annual reports: See source field in data for link to each one. Extracted in various ways depending file/html format, readability and embedded text quality. In some cases, in-stream text editor (sed), in other cases regex and/or grep. In other cases, copy and paste directly into text editor.
 
 ## Issues
 
