@@ -26,6 +26,11 @@ In most cases, there is no record showing exactly when a donation was made. Also
 
 This is a database of transactions--not money donated. Most think tanks either don't provide amounts or provide a range rather than an exact amount. Also, most think tanks include "anonymous" donations on their lists, so there could be foreign government donors that are not named and not in the data. 
 
+## Publications
 
+These data were vizualized in The New York Times: http://www.nytimes.com/interactive/2014/09/07/us/politics/foreign-government-contributions-to-nine-think-tanks.html
+
+Related investigation: 
+http://www.nytimes.com/2014/09/07/us/politics/foreign-powers-buy-influence-at-think-tanks.html?_r=0
 
 
